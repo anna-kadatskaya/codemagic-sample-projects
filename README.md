@@ -1,4 +1,4 @@
-# Codemagic Sample Projects
+# Codemagic Sample Projects test
 
 ![codemagic-banner](assets/media/logo_banner.svg)
 
